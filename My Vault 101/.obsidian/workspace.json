@@ -1,35 +1,76 @@
 {
   "main": {
-    "id": "3725bc48ee42ddc1",
+    "id": "04cd0f507603731d",
     "type": "split",
     "children": [
       {
-        "id": "ada6120f2dfeb806",
+        "id": "c4c636a40f9af471",
         "type": "tabs",
         "children": [
           {
-            "id": "45bce67dd5a7b657",
+            "id": "f3354ab88ada454e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "be9c496f908b120f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f938575893f5a4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISA (Certified Information Systems Auditor)/CISA by Hemang Doshi/Domain 2 - Governance and Management of IT/Section 2 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6496409af15c57ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asgard/Orientation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e21b65922ef33d46",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c156637e31088b3",
+    "id": "4b5ff1fe50f24283",
     "type": "split",
     "children": [
       {
-        "id": "6ec3cd348671d93a",
+        "id": "1da4cf33569f6f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd0da5e44600229b",
+            "id": "f76b4701e2f780fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +80,7 @@
             }
           },
           {
-            "id": "ad66176bbf05e0dd",
+            "id": "a0cb168607c70a32",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +95,7 @@
             }
           },
           {
-            "id": "94ead89934ac3939",
+            "id": "6b157737a38fde61",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +106,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "521a65a19bf1bfa9",
+    "id": "3a2fd77bee45c20b",
     "type": "split",
     "children": [
       {
-        "id": "02a27e138653a0c3",
+        "id": "7e726f80f9770900",
         "type": "tabs",
         "children": [
           {
-            "id": "89563d714959fd60",
+            "id": "6d99693bde768994",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Asgard/Orientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +134,19 @@
             }
           },
           {
-            "id": "4959619af568b109",
+            "id": "9992be6892c5b11c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Asgard/Orientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e353728f33fb0e8d",
+            "id": "1aca1744626b8841",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,20 +157,33 @@
             }
           },
           {
-            "id": "e475e109cf14deba",
+            "id": "b44deb5b77bf16a8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Asgard/Orientation.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "45bce67dd5a7b657",
-  "lastOpenFiles": []
+  "active": "6496409af15c57ac",
+  "lastOpenFiles": [
+    "Bug Bounty Hunter/HyperText Transfer Protocol (HTTP).md",
+    "Appendix.md",
+    "CISA (Certified Information Systems Auditor)/CISA by Hemang Doshi/Domain 4/Section 4 Notes.md",
+    "CISA (Certified Information Systems Auditor)/CISA by Hemang Doshi/Domain 2 - Governance and Management of IT/Section 2 Notes.md",
+    "Python/Cracking the Code.md",
+    "Python/Keylogger.md",
+    "CISA (Certified Information Systems Auditor)/CISA by Hemang Doshi/Domain 3/Overview.md",
+    "CISA (Certified Information Systems Auditor)/CISA by Hemang Doshi/Domain 3/Domain 3 - Exam Notes.md",
+    "TryHackMe/Google Dorking (Hacking).md",
+    "TryHackMe/Intro to Offensive Security.md"
+  ]
 }
